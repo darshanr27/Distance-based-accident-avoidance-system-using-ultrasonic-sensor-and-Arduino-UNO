@@ -23,3 +23,6 @@ The aim of the model is to prevent the collision of vehicles by using ultrasonic
 **Hardware Requirement:** HC-SR04 Ultrasonic Distance Sensor Module, HC-05 Bluetooth Module With
 TTL Output, Arduino UNO, LED lights, Jumper wires, L298N Motor Driver, RC Car Chassis, Lead Acid
 Battery 7Ah, DC Geared Motor 200RPM, Wheel 110mm.
+
+
+![Project prototype image](https://drive.google.com/file/d/1VJ-29tJPggmRHKaR7lp-TZkfCpHPBErg/view?usp=sharing)
