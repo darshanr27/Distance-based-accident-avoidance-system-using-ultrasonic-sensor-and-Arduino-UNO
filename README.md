@@ -1,4 +1,4 @@
-# hackintosh-evo-hackathon-project
+# Hackintosh-Evo Hackathon Project
 
 **Team Name:** InfoMech
 
@@ -12,7 +12,7 @@
 5. Manjushree H E
 
 **Problem Statement:**
-#### Distance Based Accident Avoidance System Using Ultrasonic Sensor and Electromagnetic Repulsion.
+> #### Distance Based Accident Avoidance System Using Ultrasonic Sensor and Electromagnetic Repulsion.
 
 
 
@@ -27,6 +27,8 @@ TTL Output, Arduino UNO, LED lights, Jumper wires, L298N Motor Driver, RC Car Ch
 Battery 7Ah, DC Geared Motor 200RPM, Wheel 110mm.
 
 
-### Project Prototype Image
 
-![Project prototype image](https://github.com/darshanr27/hackintosh-evo-hackathon-project/blob/master/InfoMech/project%20prototype%20images/prototype.jpg)
+### Project Prototype Image
+<p align="center">
+  <img src="https://github.com/darshanr27/hackintosh-evo-hackathon-project/blob/master/InfoMech/project%20prototype%20images/prototype.jpg" alt="Project prototype image" width="360" height="370" align="center"/>
+</p>
