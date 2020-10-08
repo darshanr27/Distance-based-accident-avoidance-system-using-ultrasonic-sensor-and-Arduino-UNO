@@ -14,11 +14,11 @@
 
 **Problem Statement:**
 
-> #### Distance Based Accident Avoidance System Using Ultrasonic Sensor and Electromagnetic Repulsion.
+> #### Distance Based Accident Avoidance System Using Ultrasonic Sensor and Arduino UNO.
 
 **Solution Statement:**
 
-> The aim of the model is to prevent the collision of vehicles by using ultrasonic sensors interfaced with Arduino UNO to calculate the distance between the vehicle and the obstacle and to prevent collision using the auto break system and also by using the theory of electromagnetic repulsion. The proposed system comprises an idea of having safety while driving. By the study of hypothesis on ultrasonic sensor, we come to know that it uses sonar waves to calculate the accurate distance between two objects. By using the above feature of ultrasonic sensor we apply automated brakes and we also use the theory of electromagnetic repulsion to prevent accidents.
+> The aim of the model is to prevent the collision of vehicles by using ultrasonic sensors interfaced with Arduino UNO to calculate the distance between the vehicle and the obstacle and to prevent collision using the auto break system. The proposed system comprises an idea of having safety while driving. By the study of hypothesis on ultrasonic sensor, we come to know that it uses sonar waves to calculate the accurate distance between two objects. By using this feature of ultrasonic sensor we can find the distance between two bodies and we apply automated brakes to prevent accidents.
 
 **Software Requirement:**
 
