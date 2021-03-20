@@ -33,5 +33,5 @@ Battery 7Ah, DC Geared Motor 200RPM, Wheel 110mm.
 ### Project Prototype Image
 
 <p align="center">
-  <img src="https://github.com/darshanr27/hackintosh-evo-hackathon-project/blob/master/InfoMech/project%20prototype%20images/prototype.jpg" alt="Project prototype image" width="360" height="370" align="center"/>
+  <img src="Assets/project prototype images/prototype.jpg" alt="Project prototype image" width="360" height="370" align="center"/>
 </p>
