@@ -54,7 +54,6 @@ Battery 7Ah, DC Geared Motor 200RPM, Wheel 110mm.
 
 <br>
 <hr>
-<br>
 
 ## Project Prototype Image
 
@@ -66,7 +65,5 @@ Battery 7Ah, DC Geared Motor 200RPM, Wheel 110mm.
 
 ## Testing and Working Demo
 
-<p align="center">
-  
   [![Distance Based Accident Avoidance System Testing and Working Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1632408356/video_to_markdown/images/youtube--GGQMlpGbC7Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/GGQMlpGbC7Y "Distance Based Accident Avoidance System Testing and Working Demo")
-</p>
+
