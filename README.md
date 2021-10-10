@@ -1,8 +1,7 @@
-<img src="https://img.shields.io/badge/Team-InfoMech-success?style=for-the-badge">
+<a><img src="https://img.shields.io/badge/Team-InfoMech-success?style=for-the-badge"></a>
 <a href="https://www.instagram.com/crystal_sparrow_labs/"><img src="https://img.shields.io/badge/Guided%20By-Crystal%20Sparrow-informational?style=for-the-badge"></a>
 <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Built%20With-Arduino-blue?style=for-the-badge"></a>
-<img src="https://img.shields.io/badge/Coded%20With-C%2B%2B-blueviolet?style=for-the-badge">
-<img src="">
+<a><img src="https://img.shields.io/badge/Coded%20With-C%2B%2B-blueviolet?style=for-the-badge"></a>
 <a href="https://youtu.be/GGQMlpGbC7Y"><img src="https://img.shields.io/badge/Demo%20video%20at-Youtube-red?style=for-the-badge"></a>
 
 <br>
@@ -75,15 +74,15 @@ All the components process is controlled through the microcontroller which conne
 
 **Reference Documents:**
 
-- [Arduino UNO R3 Development Board](https://github.com/darshanr27/hackintosh-evo-hackathon-project/tree/master/Reference%20Docs/Arduino%20UNO%20R3%20Development%20Board.pdf)
+- [Arduino UNO R3 Development Board](https://github.com/darshanr27/Distance-based-accident-avoidance-system-using-ultrasonic-sensor-and-Arduino-UNO/blob/master/Reference%20Docs/Arduino%20UNO%20R3%20Development%20Board.pdf)
 
 - [Ultrasonic Sensor HC-SR04 with Arduino Tutorial](https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6)
 
-- [Model Chassis Design File]()
+- [Model Chassis Design File](https://github.com/darshanr27/Distance-based-accident-avoidance-system-using-ultrasonic-sensor-and-Arduino-UNO/blob/559054efc91e651d2def9ab4b353eb716631d015/Codes%20And%20Resources/Model%20Draft%20Design/Chassis.dft)
 
-- [Bluetooth Control Souce Code]()
+- [Bluetooth Control Souce Code](https://github.com/darshanr27/Distance-based-accident-avoidance-system-using-ultrasonic-sensor-and-Arduino-UNO/blob/559054efc91e651d2def9ab4b353eb716631d015/Codes%20And%20Resources/Bluetooth%20Control%20Source%20Code/bluetooth_control.ino)
 
-- [Voice Control Source Code]()
+- [Voice Control Source Code](https://github.com/darshanr27/Distance-based-accident-avoidance-system-using-ultrasonic-sensor-and-Arduino-UNO/blob/559054efc91e651d2def9ab4b353eb716631d015/Codes%20And%20Resources/Voice%20Control%20Source%20Code/voicecontrol.ino)
 
 <br>
 <hr>
